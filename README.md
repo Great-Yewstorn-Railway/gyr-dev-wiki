@@ -1,1 +1,5 @@
-<a href="https://github.com/Great-Yewstorn-Railway/gyr-dev-wiki/wiki">GYR Wiki Page</a>
+# Welcome
+
+{% hint style="danger" %}
+This game & website is heavily under development, some articles may not be up to date or have no content at all, please be patient.
+{% endhint %}
